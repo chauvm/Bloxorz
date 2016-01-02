@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0minfo[0m] [0mStarting scala interpreter...[0m
+[0m[[0mdebug[0m] [0m  Boot classpath: C:\Progra~1\Java\jre7\lib\resources.jar;C:\Progra~1\Java\jre7\lib\rt.jar;C:\Progra~1\Java\jre7\lib\sunrsasign.jar;C:\Progra~1\Java\jre7\lib\jsse.jar;C:\Progra~1\Java\jre7\lib\jce.jar;C:\Progra~1\Java\jre7\lib\charsets.jar;C:\Progra~1\Java\jre7\lib\jfr.jar;C:\Progra~1\Java\jre7\classes;C:\Users\Chau Vu\.sbt\boot\scala-2.9.2\lib\scala-library.jar[0m
+[0m[[0mdebug[0m] [0m  Classpath: D:\Online_courses\Coursera\Scala\streams\target\scala-2.9.2\classes;C:\Users\Chau Vu\.sbt\boot\scala-2.9.2\lib\scala-compiler.jar;C:\Users\Chau Vu\.sbt\boot\scala-2.9.2\lib\jansi.jar;C:\Users\Chau Vu\.sbt\boot\scala-2.9.2\lib\jline.jar[0m
+[0m[[0minfo[0m] [0m[0m
